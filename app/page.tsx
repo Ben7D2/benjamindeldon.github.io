@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Next.js on GitHub Pages</div>
+      <div>Work in progress. See you around the end of january!</div>
     </main>
   );
 }
